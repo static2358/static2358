@@ -78,10 +78,6 @@
 _Based on 7 public non-fork repositories. Auto-updated by GitHub Actions._
 
 <p align="center">
-  <img src="./assets/language-stats.svg" width="100%" alt="Language usage chart" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/static/v1?label=HTML&amp;message=32.27%25&amp;color=E34F26&amp;style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML 32.27%" />
   <img src="https://img.shields.io/static/v1?label=Python&amp;message=23.67%25&amp;color=3776AB&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python 23.67%" />
   <img src="https://img.shields.io/static/v1?label=Java&amp;message=18.26%25&amp;color=ED8B00&amp;style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java 18.26%" />
