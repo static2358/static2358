@@ -75,8 +75,6 @@
 
 <!-- LANGUAGE_STATS_START -->
 <!-- Auto-updated by .github/workflows/update-language-stats.yml -->
-_Based on 7 public non-fork repositories. Auto-updated by GitHub Actions._
-
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=HTML&amp;message=32.27%25&amp;color=E34F26&amp;style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML 32.27%" />
   <img src="https://img.shields.io/static/v1?label=Python&amp;message=23.67%25&amp;color=3776AB&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python 23.67%" />

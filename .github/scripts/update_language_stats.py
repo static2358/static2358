@@ -148,8 +148,6 @@ def format_section(totals: dict[str, int], scanned_repos: int) -> str:
     lines = [
         START,
         "<!-- Auto-updated by .github/workflows/update-language-stats.yml -->",
-        f"_Based on {scanned_repos} public non-fork repositories. Auto-updated by GitHub Actions._",
-        "",
         '<p align="center">',
     ]
 
