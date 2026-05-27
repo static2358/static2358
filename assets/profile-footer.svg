@@ -1,0 +1,21 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ali Gouarab profile footer</title>
+  <desc id="desc">Dark footer with subtle data line and profile interests.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#030712"/>
+      <stop offset="0.5" stop-color="#111827"/>
+      <stop offset="1" stop-color="#030712"/>
+    </linearGradient>
+    <linearGradient id="line" x1="120" y1="60" x2="1080" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#475569"/>
+      <stop offset="0.35" stop-color="#8b5cf6"/>
+      <stop offset="0.7" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#10b981"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" rx="22" fill="url(#bg)"/>
+  <path d="M90 72C184 49 255 75 346 57C442 38 515 47 604 66C704 88 767 69 846 48C932 26 1013 44 1110 29" stroke="url(#line)" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M90 90H1110" stroke="#334155" stroke-width="1" stroke-dasharray="8 12" opacity="0.65"/>
+  <text x="600" y="76" text-anchor="middle" fill="#cbd5e1" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="15">AI / Data / Finance / Math / Computer Vision</text>
+</svg>

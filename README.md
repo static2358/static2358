@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=190&amp;color=0:020617,45:111827,75:312e81,100:020617&amp;text=Ali%20Gouarab&amp;fontColor=f8fafc&amp;fontSize=52&amp;fontAlignY=38&amp;desc=Computer%20Science%20Student%20%7C%20Looking%20for%20an%20Internship&amp;descAlignY=58&amp;descSize=17&amp;descColor=cbd5e1" alt="Ali Gouarab profile banner" />
+  <img src="./assets/profile-header.svg" width="100%" alt="Ali Gouarab profile header" />
 </p>
 
 <p align="center">
@@ -84,5 +84,5 @@ Interested in AI, Data, Finance, Mathematics, and Computer Vision
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;section=footer&amp;color=0:14b8a6,55:2563eb,100:0f172a" alt="Profile footer" />
+  <img src="./assets/profile-footer.svg" width="100%" alt="Ali Gouarab profile footer" />
 </p>
