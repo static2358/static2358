@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=190&amp;color=0:0f172a,45:2563eb,100:14b8a6&amp;text=static2358&amp;fontColor=ffffff&amp;fontSize=52&amp;fontAlignY=38&amp;desc=Java%20%7C%20Python%20%7C%20Algorithms%20%7C%20Systems&amp;descAlignY=58&amp;descSize=17" alt="static2358 profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=190&amp;color=0:0f172a,45:2563eb,100:14b8a6&amp;text=Ali%20Gouarab&amp;fontColor=ffffff&amp;fontSize=52&amp;fontAlignY=38&amp;desc=Java%20%7C%20Python%20%7C%20Algorithms%20%7C%20Systems&amp;descAlignY=58&amp;descSize=17" alt="Ali Gouarab profile banner" />
 </p>
 
 <p align="center">
@@ -10,10 +10,10 @@
   <img src="https://komarev.com/ghpvc/?username=static2358&amp;style=for-the-badge&amp;color=14b8a6" alt="Profile views" />
 </p>
 
-<h1 align="center">Hi, I am static2358</h1>
+<h1 align="center">Hi, I'm Ali</h1>
 
 <p align="center">
-  I build algorithmic, systems-oriented projects with a focus on clean logic, useful visualizations, and solid fundamentals.
+  I'm Ali Gouarab, and I build algorithmic, systems-oriented projects with a focus on clean logic, useful visualizations, and solid fundamentals.
 </p>
 
 <br />
@@ -23,7 +23,7 @@
     <td width="55%" valign="top">
       <h2>About Me</h2>
       <ul>
-        <li>Based in Paris, France.</li>
+        <li>Ali Gouarab, based in Paris, France.</li>
         <li>Working mostly with Java and Python.</li>
         <li>Interested in database systems, graph algorithms, pathfinding, optimization, and game logic.</li>
         <li>Currently exploring low-level programming through C and Rust.</li>
