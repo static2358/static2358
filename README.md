@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/static2358">
-    <img src="https://img.shields.io/static/v1?label=&amp;message=static2358&amp;color=181717&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub profile" />
-  </a>
+  <img src="https://img.shields.io/static/v1?label=&amp;message=static2358&amp;color=181717&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub profile" />
   <img src="https://img.shields.io/static/v1?label=&amp;message=Looking%20for%20an%20internship&amp;color=14b8a6&amp;style=for-the-badge" alt="Looking for an internship" />
 </p>
 
