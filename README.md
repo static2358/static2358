@@ -1,17 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=190&amp;color=0:0f172a,45:2563eb,100:14b8a6&amp;text=Ali%20Gouarab&amp;fontColor=ffffff&amp;fontSize=52&amp;fontAlignY=38&amp;desc=Looking%20for%20an%20internship%20%7C%20Java%20%7C%20Python%20%7C%20Algorithms&amp;descAlignY=58&amp;descSize=17" alt="Ali Gouarab profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=190&amp;color=0:0f172a,45:2563eb,100:14b8a6&amp;text=Ali%20Gouarab&amp;fontColor=ffffff&amp;fontSize=52&amp;fontAlignY=38&amp;desc=Computer%20Science%20Student%20%7C%20Looking%20for%20an%20Internship&amp;descAlignY=58&amp;descSize=17" alt="Ali Gouarab profile banner" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=&amp;message=static2358&amp;color=181717&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub profile" />
   <img src="https://img.shields.io/static/v1?label=&amp;message=Looking%20for%20an%20internship&amp;color=14b8a6&amp;style=for-the-badge" alt="Looking for an internship" />
+  <img src="https://img.shields.io/static/v1?label=&amp;message=Computer%20Science%20Student&amp;color=2563eb&amp;style=for-the-badge" alt="Computer Science student" />
 </p>
 
 <h1 align="center">Hi, I'm Ali</h1>
 
 <p align="center">
-  I'm Ali Gouarab, a software development student based in Paris.
-  I am currently looking for an internship where I can build useful software, learn from a strong team, and keep improving as a developer.
+  I'm Ali Gouarab, a Computer Science student at Université Paris Cité.
+  I am looking for a 10-week internship where I can work on useful software, data, AI, or computer vision projects.
 </p>
 
 <br />
@@ -21,47 +22,69 @@
     <td width="55%" valign="top">
       <h2>About Me</h2>
       <ul>
-        <li>Looking for an internship in software development.</li>
-        <li>Main languages: Java and Python.</li>
-        <li>Interested in algorithms, backend logic, databases, and systems fundamentals.</li>
-        <li>Also learning C and Rust to understand lower-level programming better.</li>
+        <li>Computer Science student with a Mathematics and Computer Science background.</li>
+        <li>Interested in AI, Data, Finance, Mathematics, and Computer Vision.</li>
+        <li>Currently studying advanced algorithms, AI, image processing, databases, and software engineering.</li>
+        <li>Languages: French C2, English C1, Arabic C2.</li>
+        <li>Active member of KRYPTOSPHERE, around blockchain, AI, and Web3 topics.</li>
       </ul>
     </td>
     <td width="45%" valign="top">
-      <h2>What I Like Building</h2>
+      <h2>What I'm Looking For</h2>
       <ul>
-        <li>Pathfinding and graph algorithm projects.</li>
-        <li>Database and data structure projects.</li>
-        <li>Optimization and network modeling tools.</li>
-        <li>Games with clear rules and reliable logic.</li>
+        <li>A 10-week internship in software development, AI, data, or computer vision.</li>
+        <li>A team where I can learn, build, and contribute seriously.</li>
+        <li>Projects involving algorithms, data analysis, automation, or applied mathematics.</li>
       </ul>
     </td>
   </tr>
 </table>
 
-## Tech Stack
+## Interests
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=111827" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/static/v1?label=&amp;message=Artificial%20Intelligence&amp;color=0f172a&amp;style=for-the-badge" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/static/v1?label=&amp;message=Data&amp;color=2563eb&amp;style=for-the-badge" alt="Data" />
+  <img src="https://img.shields.io/static/v1?label=&amp;message=Finance&amp;color=14b8a6&amp;style=for-the-badge" alt="Finance" />
+  <img src="https://img.shields.io/static/v1?label=&amp;message=Mathematics&amp;color=7c3aed&amp;style=for-the-badge" alt="Mathematics" />
+  <img src="https://img.shields.io/static/v1?label=&amp;message=Computer%20Vision&amp;color=f97316&amp;style=for-the-badge" alt="Computer Vision" />
 </p>
 
-## Featured Projects
+## Skills
 
-| Project | What It Shows | Tech |
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=111827" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&amp;logo=latex&amp;logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/Typst-239DAD?style=for-the-badge" alt="Typst" />
+</p>
+
+## Projects
+
+| Project | Focus | Tech |
 | --- | --- | --- |
-| [DBMS](https://github.com/static2358/DBMS) | A lightweight database management system demonstrating core DBMS concepts. | Java |
-| [MapPathFinder](https://github.com/static2358/MapPathFinder) | Dijkstra and A* applied to weighted graphs and text-based maps. | Java |
-| [PixelPathFinder](https://github.com/static2358/PixelPathFinder) | Image-based pathfinding by modeling pixels as weighted graph nodes. | Python |
-| [ElectricityNetwork](https://github.com/static2358/ElectricityNetwork) | Electrical grid management, stability, and energy distribution optimization. | Java |
-| [MultiplayerSudoku](https://github.com/static2358/MultiplayerSudoku) | A multiplayer Sudoku game. | Python |
-| [static2358.github.io](https://github.com/static2358/static2358.github.io) | Personal website hosted with GitHub Pages. | HTML |
+| Crypto market analysis and visualization | Price visualization, technical indicators, portfolio simulation, API. | Web, Data, Finance |
+| [DBMS](https://github.com/static2358/DBMS) | Lightweight database management system demonstrating DBMS fundamentals. | Java |
+| [ElectricityNetwork](https://github.com/static2358/ElectricityNetwork) | Electrical network optimization using greedy algorithms and simulated annealing. | Java, JavaFX |
+| [PixelPathFinder](https://github.com/static2358/PixelPathFinder) | Image pathfinding by modeling images as weighted graphs. | Python, Graphs |
+| [MapPathFinder](https://github.com/static2358/MapPathFinder) | Dijkstra and A* on weighted graphs and text maps. | Java, Algorithms |
+| [MultiplayerSudoku](https://github.com/static2358/MultiplayerSudoku) | Multiplayer Sudoku with matchmaking and optimized grid generation. | Python, Django, C++ |
 
 ## GitHub Stats
 
@@ -73,9 +96,9 @@
 ## Currently
 
 ```txt
-Looking for an internship
-Building projects with Java and Python
-Learning more about systems, algorithms, and backend development
+Looking for a 10-week internship
+Studying Computer Science at Université Paris Cité
+Interested in AI, Data, Finance, Mathematics, and Computer Vision
 ```
 
 <p align="center">
