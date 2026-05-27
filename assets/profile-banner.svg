@@ -1,0 +1,77 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ali Gouarab profile banner</title>
+  <desc id="desc">A dark technical banner with graph nodes, code marks, and the name Ali Gouarab.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.45" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#052e3a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="145" y1="64" x2="1100" y2="310" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="0.52" stop-color="#14b8a6"/>
+      <stop offset="1" stop-color="#f97316"/>
+    </linearGradient>
+    <radialGradient id="glowBlue" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(250 95) rotate(39) scale(360 220)">
+      <stop stop-color="#38bdf8" stop-opacity="0.36"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowGreen" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(940 255) rotate(150) scale(330 220)">
+      <stop stop-color="#14b8a6" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#14b8a6" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-80" y="-80" width="1360" height="520" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.22 0 0 0 0 0.74 0 0 0 0 0.97 0 0 0 0.5 0"/>
+      <feBlend in="SourceGraphic" mode="screen"/>
+    </filter>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" stroke="#94a3b8" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glowBlue)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glowGreen)"/>
+
+  <path d="M34 286C162 218 257 253 350 176C453 91 561 88 666 151C759 207 857 243 976 180C1051 141 1110 131 1166 143" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" opacity="0.72"/>
+  <path d="M42 306C174 245 298 295 409 219C526 139 612 186 711 219C823 256 929 297 1076 223" stroke="#38bdf8" stroke-width="1.4" stroke-linecap="round" stroke-dasharray="9 13" opacity="0.34"/>
+
+  <g filter="url(#softGlow)">
+    <circle cx="167" cy="232" r="8" fill="#38bdf8"/>
+    <circle cx="350" cy="176" r="8" fill="#14b8a6"/>
+    <circle cx="526" cy="118" r="8" fill="#38bdf8"/>
+    <circle cx="711" cy="219" r="8" fill="#f97316"/>
+    <circle cx="976" cy="180" r="8" fill="#14b8a6"/>
+    <circle cx="1076" cy="223" r="8" fill="#38bdf8"/>
+  </g>
+
+  <g opacity="0.75" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="17" fill="#94a3b8">
+    <text x="80" y="84">class GraphSolver {</text>
+    <text x="92" y="113" fill="#38bdf8">dijkstra()</text>
+    <text x="208" y="113"> + </text>
+    <text x="239" y="113" fill="#14b8a6">astar()</text>
+    <text x="80" y="142">}</text>
+    <text x="897" y="86">db.core()</text>
+    <text x="897" y="116">grid.optimize()</text>
+    <text x="897" y="146">state.sync()</text>
+  </g>
+
+  <g>
+    <rect x="68" y="256" width="248" height="42" rx="21" fill="#020617" fill-opacity="0.72" stroke="#1e293b"/>
+    <circle cx="94" cy="277" r="6" fill="#38bdf8"/>
+    <text x="112" y="283" fill="#cbd5e1" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="15">Java / Python / C / Rust</text>
+  </g>
+
+  <g>
+    <rect x="862" y="256" width="270" height="42" rx="21" fill="#020617" fill-opacity="0.72" stroke="#1e293b"/>
+    <circle cx="889" cy="277" r="6" fill="#14b8a6"/>
+    <text x="907" y="283" fill="#cbd5e1" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="15">graphs / systems / logic</text>
+  </g>
+
+  <text x="600" y="157" text-anchor="middle" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="74" font-weight="800" letter-spacing="1">Ali Gouarab</text>
+  <text x="600" y="205" text-anchor="middle" fill="#bae6fd" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="22">algorithmic systems developer</text>
+
+  <rect x="420" y="230" width="360" height="2" rx="1" fill="url(#accent)"/>
+</svg>
