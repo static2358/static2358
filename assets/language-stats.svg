@@ -1,0 +1,76 @@
+<svg width="900" height="510" viewBox="0 0 900 510" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">Language usage stats</title>
+<desc id="desc">Language usage percentages based on 7 public non-fork repositories.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#030712"/>
+<stop offset="0.55" stop-color="#111827"/>
+<stop offset="1" stop-color="#020617"/>
+</linearGradient>
+</defs>
+<rect width="900" height="510" rx="18" fill="url(#bg)"/>
+<rect x="24" y="24" width="852" height="1" fill="#334155"/>
+<text x="54" y="62" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Language Usage</text>
+<text x="54" y="86" fill="#94a3b8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">Auto-updated from 7 public non-fork repositories</text>
+<rect x="54" y="100" width="792" height="24" rx="12" fill="#1f2937"/>
+<rect x="54.00" y="100" width="255.55" height="24" rx="12" fill="#E34F26"/>
+<rect x="309.55" y="100" width="187.50" height="24" rx="0" fill="#3776AB"/>
+<rect x="497.05" y="100" width="144.59" height="24" rx="0" fill="#ED8B00"/>
+<rect x="641.64" y="100" width="78.29" height="24" rx="0" fill="#F7DF1E"/>
+<rect x="719.93" y="100" width="63.11" height="24" rx="0" fill="#1572B6"/>
+<rect x="783.04" y="100" width="36.50" height="24" rx="0" fill="#00599C"/>
+<rect x="819.54" y="100" width="25.18" height="24" rx="0" fill="#00599C"/>
+<rect x="844.73" y="100" width="1.27" height="24" rx="12" fill="#6D8086"/>
+<rect x="846.00" y="100" width="0.00" height="24" rx="12" fill="#4EAA25"/>
+<rect x="846.00" y="100" width="0.00" height="24" rx="12" fill="#4D4D4D"/>
+<circle cx="64" cy="153" r="6" fill="#E34F26"/>
+<text x="84" y="158" fill="#e5e7eb" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">HTML</text>
+<text x="830" y="158" fill="#cbd5e1" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="14">32.27%</text>
+<rect x="220" y="141" width="520" height="10" rx="5" fill="#1f2937"/>
+<rect x="220" y="141" width="167.79" height="10" rx="5" fill="#E34F26"/>
+<circle cx="64" cy="187" r="6" fill="#3776AB"/>
+<text x="84" y="192" fill="#e5e7eb" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Python</text>
+<text x="830" y="192" fill="#cbd5e1" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="14">23.67%</text>
+<rect x="220" y="175" width="520" height="10" rx="5" fill="#1f2937"/>
+<rect x="220" y="175" width="123.10" height="10" rx="5" fill="#3776AB"/>
+<circle cx="64" cy="221" r="6" fill="#ED8B00"/>
+<text x="84" y="226" fill="#e5e7eb" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Java</text>
+<text x="830" y="226" fill="#cbd5e1" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="14">18.26%</text>
+<rect x="220" y="209" width="520" height="10" rx="5" fill="#1f2937"/>
+<rect x="220" y="209" width="94.93" height="10" rx="5" fill="#ED8B00"/>
+<circle cx="64" cy="255" r="6" fill="#F7DF1E"/>
+<text x="84" y="260" fill="#e5e7eb" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">JavaScript</text>
+<text x="830" y="260" fill="#cbd5e1" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="14">9.88%</text>
+<rect x="220" y="243" width="520" height="10" rx="5" fill="#1f2937"/>
+<rect x="220" y="243" width="51.40" height="10" rx="5" fill="#F7DF1E"/>
+<circle cx="64" cy="289" r="6" fill="#1572B6"/>
+<text x="84" y="294" fill="#e5e7eb" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">CSS</text>
+<text x="830" y="294" fill="#cbd5e1" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="14">7.97%</text>
+<rect x="220" y="277" width="520" height="10" rx="5" fill="#1f2937"/>
+<rect x="220" y="277" width="41.44" height="10" rx="5" fill="#1572B6"/>
+<circle cx="64" cy="323" r="6" fill="#00599C"/>
+<text x="84" y="328" fill="#e5e7eb" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">C</text>
+<text x="830" y="328" fill="#cbd5e1" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="14">4.61%</text>
+<rect x="220" y="311" width="520" height="10" rx="5" fill="#1f2937"/>
+<rect x="220" y="311" width="23.97" height="10" rx="5" fill="#00599C"/>
+<circle cx="64" cy="357" r="6" fill="#00599C"/>
+<text x="84" y="362" fill="#e5e7eb" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">C++</text>
+<text x="830" y="362" fill="#cbd5e1" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="14">3.18%</text>
+<rect x="220" y="345" width="520" height="10" rx="5" fill="#1f2937"/>
+<rect x="220" y="345" width="16.53" height="10" rx="5" fill="#00599C"/>
+<circle cx="64" cy="391" r="6" fill="#6D8086"/>
+<text x="84" y="396" fill="#e5e7eb" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Makefile</text>
+<text x="830" y="396" fill="#cbd5e1" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="14">0.10%</text>
+<rect x="220" y="379" width="520" height="10" rx="5" fill="#1f2937"/>
+<rect x="220" y="379" width="3.00" height="10" rx="5" fill="#6D8086"/>
+<circle cx="64" cy="425" r="6" fill="#4EAA25"/>
+<text x="84" y="430" fill="#e5e7eb" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Shell</text>
+<text x="830" y="430" fill="#cbd5e1" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="14">0.04%</text>
+<rect x="220" y="413" width="520" height="10" rx="5" fill="#1f2937"/>
+<rect x="220" y="413" width="3.00" height="10" rx="5" fill="#4EAA25"/>
+<circle cx="64" cy="459" r="6" fill="#4D4D4D"/>
+<text x="84" y="464" fill="#e5e7eb" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Batchfile</text>
+<text x="830" y="464" fill="#cbd5e1" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="14">0.02%</text>
+<rect x="220" y="447" width="520" height="10" rx="5" fill="#1f2937"/>
+<rect x="220" y="447" width="3.00" height="10" rx="5" fill="#4D4D4D"/>
+</svg>
