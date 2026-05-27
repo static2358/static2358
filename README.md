@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Ali Gouarab profile header" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding animation" />
 </p>
 
 <p align="center">
@@ -82,7 +82,3 @@ Looking for a 10-week internship
 Studying Computer Science at Universite Paris Cite
 Interested in AI, Data, Finance, Mathematics, and Computer Vision
 ```
-
-<p align="center">
-  <img src="./assets/profile-footer.svg" width="100%" alt="Ali Gouarab profile footer" />
-</p>
