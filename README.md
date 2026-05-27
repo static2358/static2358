@@ -4,11 +4,9 @@
 
 <p align="center">
   <a href="https://github.com/static2358">
-    <img src="https://img.shields.io/badge/GitHub-static2358-181717?style=for-the-badge&amp;logo=github" alt="GitHub profile" />
+    <img src="https://img.shields.io/static/v1?label=&amp;message=static2358&amp;color=181717&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub profile" />
   </a>
-  <img src="https://img.shields.io/badge/Looking%20for-an%20internship-14b8a6?style=for-the-badge" alt="Looking for an internship" />
-  <img src="https://img.shields.io/badge/Paris-France-2563eb?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white" alt="Paris, France" />
-  <img src="https://komarev.com/ghpvc/?username=static2358&amp;style=for-the-badge&amp;color=14b8a6" alt="Profile views" />
+  <img src="https://img.shields.io/static/v1?label=&amp;message=Looking%20for%20an%20internship&amp;color=14b8a6&amp;style=for-the-badge" alt="Looking for an internship" />
 </p>
 
 <h1 align="center">Hi, I'm Ali</h1>
