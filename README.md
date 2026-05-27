@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/profile-loop.gif" width="100%" alt="Ali Gouarab animated profile header" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/static/v1?label=&amp;message=static2358&amp;color=181717&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub profile" />
   <img src="https://img.shields.io/static/v1?label=&amp;message=Looking%20for%20an%20internship&amp;color=14b8a6&amp;style=for-the-badge" alt="Looking for an internship" />
   <img src="https://img.shields.io/static/v1?label=&amp;message=Computer%20Science%20Student&amp;color=2563eb&amp;style=for-the-badge" alt="Computer Science student" />
