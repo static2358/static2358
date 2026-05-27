@@ -11,7 +11,7 @@
 <h1 align="center">Hi, I'm Ali</h1>
 
 <p align="center">
-  I'm Ali Gouarab, a Computer Science student at Université Paris Cité.
+  I'm Ali Gouarab, a Computer Science student at Universite Paris Cite.
   I am looking for a 10-week internship where I can work on useful software, data, AI, or computer vision projects.
 </p>
 
@@ -75,29 +75,11 @@
   <img src="https://img.shields.io/badge/Typst-239DAD?style=for-the-badge" alt="Typst" />
 </p>
 
-## Projects
-
-| Project | Focus | Tech |
-| --- | --- | --- |
-| Crypto market analysis and visualization | Price visualization, technical indicators, portfolio simulation, API. | Web, Data, Finance |
-| [DBMS](https://github.com/static2358/DBMS) | Lightweight database management system demonstrating DBMS fundamentals. | Java |
-| [ElectricityNetwork](https://github.com/static2358/ElectricityNetwork) | Electrical network optimization using greedy algorithms and simulated annealing. | Java, JavaFX |
-| [PixelPathFinder](https://github.com/static2358/PixelPathFinder) | Image pathfinding by modeling images as weighted graphs. | Python, Graphs |
-| [MapPathFinder](https://github.com/static2358/MapPathFinder) | Dijkstra and A* on weighted graphs and text maps. | Java, Algorithms |
-| [MultiplayerSudoku](https://github.com/static2358/MultiplayerSudoku) | Multiplayer Sudoku with matchmaking and optimized grid generation. | Python, Django, C++ |
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=static2358&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github" alt="Ali Gouarab GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=static2358&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Ali Gouarab top languages" />
-</p>
-
 ## Currently
 
 ```txt
 Looking for a 10-week internship
-Studying Computer Science at Université Paris Cité
+Studying Computer Science at Universite Paris Cite
 Interested in AI, Data, Finance, Mathematics, and Computer Vision
 ```
 
