@@ -1,119 +1,87 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Ali Gouarab - algorithmic systems developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=190&amp;color=0:0f172a,45:2563eb,100:14b8a6&amp;text=Ali%20Gouarab&amp;fontColor=ffffff&amp;fontSize=52&amp;fontAlignY=38&amp;desc=Looking%20for%20an%20internship%20%7C%20Java%20%7C%20Python%20%7C%20Algorithms&amp;descAlignY=58&amp;descSize=17" alt="Ali Gouarab profile banner" />
 </p>
 
 <p align="center">
   <a href="https://github.com/static2358">
-    <img src="https://img.shields.io/badge/static2358-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub handle" />
+    <img src="https://img.shields.io/badge/GitHub-static2358-181717?style=for-the-badge&amp;logo=github" alt="GitHub profile" />
   </a>
+  <img src="https://img.shields.io/badge/Looking%20for-an%20internship-14b8a6?style=for-the-badge" alt="Looking for an internship" />
   <img src="https://img.shields.io/badge/Paris-France-2563eb?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white" alt="Paris, France" />
   <img src="https://komarev.com/ghpvc/?username=static2358&amp;style=for-the-badge&amp;color=14b8a6" alt="Profile views" />
 </p>
 
+<h1 align="center">Hi, I'm Ali</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=24&amp;duration=2600&amp;pause=850&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Hi%2C+I'm+Ali+Gouarab;I+build+algorithmic+systems;Java+%2B+Python+%2B+graphs+%2B+databases" alt="Typing intro" />
+  I'm Ali Gouarab, a software development student based in Paris.
+  I am currently looking for an internship where I can build useful software, learn from a strong team, and keep improving as a developer.
 </p>
 
 <br />
 
 <table>
   <tr>
-    <td width="58%" valign="top">
-      <h2>Developer Signal</h2>
-      <p>
-        I like projects where the logic matters: shortest paths, database internals,
-        graph modeling, optimization, and multiplayer rules that need to stay reliable.
-      </p>
+    <td width="55%" valign="top">
+      <h2>About Me</h2>
       <ul>
-        <li>Ali Gouarab, based in Paris, France.</li>
-        <li>Main stack: Java and Python.</li>
-        <li>Building around algorithms, systems, and data structures.</li>
-        <li>Exploring lower-level programming with C and Rust.</li>
+        <li>Looking for an internship in software development.</li>
+        <li>Main languages: Java and Python.</li>
+        <li>Interested in algorithms, backend logic, databases, and systems fundamentals.</li>
+        <li>Also learning C and Rust to understand lower-level programming better.</li>
       </ul>
     </td>
-    <td width="42%" valign="top">
-      <h2>Current Mode</h2>
-      <p><code>focus</code> graph algorithms and systems fundamentals</p>
-      <p><code>building</code> practical projects with inspectable logic</p>
-      <p><code>learning</code> deeper performance and low-level concepts</p>
-      <p><code>style</code> clean code, clear models, useful abstractions</p>
+    <td width="45%" valign="top">
+      <h2>What I Like Building</h2>
+      <ul>
+        <li>Pathfinding and graph algorithm projects.</li>
+        <li>Database and data structure projects.</li>
+        <li>Optimization and network modeling tools.</li>
+        <li>Games with clear rules and reliable logic.</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-## Core Stack
+## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,c,rust,html,git,linux,vscode&amp;theme=dark" alt="Java, Python, C, Rust, HTML, Git, Linux, VS Code" />
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=111827" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code" />
 </p>
 
+## Featured Projects
+
+| Project | What It Shows | Tech |
+| --- | --- | --- |
+| [DBMS](https://github.com/static2358/DBMS) | A lightweight database management system demonstrating core DBMS concepts. | Java |
+| [MapPathFinder](https://github.com/static2358/MapPathFinder) | Dijkstra and A* applied to weighted graphs and text-based maps. | Java |
+| [PixelPathFinder](https://github.com/static2358/PixelPathFinder) | Image-based pathfinding by modeling pixels as weighted graph nodes. | Python |
+| [ElectricityNetwork](https://github.com/static2358/ElectricityNetwork) | Electrical grid management, stability, and energy distribution optimization. | Java |
+| [MultiplayerSudoku](https://github.com/static2358/MultiplayerSudoku) | A multiplayer Sudoku game. | Python |
+| [static2358.github.io](https://github.com/static2358/static2358.github.io) | Personal website hosted with GitHub Pages. | HTML |
+
+## GitHub Stats
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Algorithms-0f172a?style=flat-square&amp;logo=thealgorithms&amp;logoColor=38bdf8" alt="Algorithms" />
-  <img src="https://img.shields.io/badge/Graphs-0f172a?style=flat-square&amp;logo=neo4j&amp;logoColor=14b8a6" alt="Graphs" />
-  <img src="https://img.shields.io/badge/Databases-0f172a?style=flat-square&amp;logo=databricks&amp;logoColor=f97316" alt="Databases" />
-  <img src="https://img.shields.io/badge/Pathfinding-0f172a?style=flat-square&amp;logo=mapbox&amp;logoColor=a78bfa" alt="Pathfinding" />
-  <img src="https://img.shields.io/badge/Optimization-0f172a?style=flat-square&amp;logo=lightning&amp;logoColor=facc15" alt="Optimization" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=static2358&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github" alt="Ali Gouarab GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=static2358&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Ali Gouarab top languages" />
 </p>
 
-## Featured Work
+## Currently
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/static2358/DBMS">DBMS</a></h3>
-      <p>Lightweight database management system built to demonstrate core DBMS concepts.</p>
-      <p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" /></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/static2358/MapPathFinder">MapPathFinder</a></h3>
-      <p>Dijkstra and A* compared on weighted graphs and text-based maps.</p>
-      <p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/static2358/PixelPathFinder">PixelPathFinder</a></h3>
-      <p>Images modeled as weighted graphs to visualize shortest-path algorithms.</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" /></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/static2358/ElectricityNetwork">ElectricityNetwork</a></h3>
-      <p>Electrical grid management, stability, and energy distribution optimization.</p>
-      <p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/static2358/MultiplayerSudoku">MultiplayerSudoku</a></h3>
-      <p>A multiplayer Sudoku game focused on shared puzzle state and game logic.</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" /></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/static2358/static2358.github.io">static2358.github.io</a></h3>
-      <p>Personal website hosted with GitHub Pages.</p>
-      <p><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML" /></p>
-    </td>
-  </tr>
-</table>
-
-## GitHub Pulse
+```txt
+Looking for an internship
+Building projects with Java and Python
+Learning more about systems, algorithms, and backend development
+```
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=static2358&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=0d1117&amp;title_color=38bdf8&amp;icon_color=14b8a6" alt="Ali Gouarab GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=static2358&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=38bdf8" alt="Ali Gouarab top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=static2358&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=38BDF8&amp;fire=F97316&amp;currStreakLabel=14B8A6" alt="Ali Gouarab GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;height=2&amp;color=0:38bdf8,50:14b8a6,100:f97316" alt="divider" />
-</p>
-
-<p align="center">
-  <code>clean logic</code>
-  <code>graph thinking</code>
-  <code>systems mindset</code>
-  <code>practical builds</code>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;section=footer&amp;color=0:14b8a6,55:2563eb,100:0f172a" alt="Profile footer" />
 </p>
