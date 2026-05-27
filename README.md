@@ -71,6 +71,26 @@
   <img src="https://img.shields.io/badge/Typst-239DAD?style=for-the-badge" alt="Typst" />
 </p>
 
+## Language Stats
+
+<!-- LANGUAGE_STATS_START -->
+<!-- Auto-updated by .github/workflows/update-language-stats.yml -->
+_Based on 7 public non-fork repositories. Auto-updated by GitHub Actions._
+
+| Language | Usage |
+| --- | ---: |
+| HTML | 32.27% |
+| Python | 23.67% |
+| Java | 18.26% |
+| JavaScript | 9.88% |
+| CSS | 7.97% |
+| C | 4.61% |
+| C++ | 3.18% |
+| Makefile | 0.10% |
+| Shell | 0.04% |
+| Batchfile | 0.02% |
+<!-- LANGUAGE_STATS_END -->
+
 ## Currently
 
 ```txt
