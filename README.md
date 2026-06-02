@@ -83,9 +83,6 @@
   <img src="https://img.shields.io/static/v1?label=CSS&amp;message=7.12%25&amp;color=1572B6&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS 7.12%" />
   <img src="https://img.shields.io/static/v1?label=C&amp;message=4.12%25&amp;color=00599C&amp;style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C 4.12%" />
   <img src="https://img.shields.io/static/v1?label=C%2B%2B&amp;message=2.84%25&amp;color=00599C&amp;style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++ 2.84%" />
-  <img src="https://img.shields.io/static/v1?label=Makefile&amp;message=0.09%25&amp;color=6D8086&amp;style=for-the-badge&amp;logo=gnu&amp;logoColor=white" alt="Makefile 0.09%" />
-  <img src="https://img.shields.io/static/v1?label=Shell&amp;message=0.04%25&amp;color=4EAA25&amp;style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="Shell 0.04%" />
-  <img src="https://img.shields.io/static/v1?label=Batchfile&amp;message=0.02%25&amp;color=4D4D4D&amp;style=for-the-badge&amp;logo=windowsterminal&amp;logoColor=white" alt="Batchfile 0.02%" />
 </p>
 <!-- LANGUAGE_STATS_END -->
 
