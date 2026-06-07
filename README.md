@@ -77,13 +77,13 @@
 <!-- Auto-updated by .github/workflows/update-language-stats.yml -->
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Python&amp;message=30.67%25&amp;color=3776AB&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python 30.67%" />
-  <img src="https://img.shields.io/static/v1?label=HTML&amp;message=29.09%25&amp;color=E34F26&amp;style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML 29.09%" />
+  <img src="https://img.shields.io/static/v1?label=HTML&amp;message=29.08%25&amp;color=E34F26&amp;style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML 29.08%" />
   <img src="https://img.shields.io/static/v1?label=Java&amp;message=15.92%25&amp;color=ED8B00&amp;style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java 15.92%" />
   <img src="https://img.shields.io/static/v1?label=JavaScript&amp;message=9.56%25&amp;color=F7DF1E&amp;style=for-the-badge&amp;logo=javascript&amp;logoColor=111827" alt="JavaScript 9.56%" />
   <img src="https://img.shields.io/static/v1?label=CSS&amp;message=6.95%25&amp;color=1572B6&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS 6.95%" />
   <img src="https://img.shields.io/static/v1?label=C&amp;message=4.02%25&amp;color=00599C&amp;style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C 4.02%" />
   <img src="https://img.shields.io/static/v1?label=C%2B%2B&amp;message=2.77%25&amp;color=00599C&amp;style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++ 2.77%" />
-  <img src="https://img.shields.io/static/v1?label=TeX&amp;message=0.88%25&amp;color=8B5CF6&amp;style=for-the-badge" alt="TeX 0.88%" />
+  <img src="https://img.shields.io/static/v1?label=TeX&amp;message=0.89%25&amp;color=8B5CF6&amp;style=for-the-badge" alt="TeX 0.89%" />
   <img src="https://img.shields.io/static/v1?label=Makefile&amp;message=0.09%25&amp;color=6D8086&amp;style=for-the-badge&amp;logo=gnu&amp;logoColor=white" alt="Makefile 0.09%" />
   <img src="https://img.shields.io/static/v1?label=Shell&amp;message=0.04%25&amp;color=4EAA25&amp;style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="Shell 0.04%" />
   <img src="https://img.shields.io/static/v1?label=Batchfile&amp;message=0.02%25&amp;color=4D4D4D&amp;style=for-the-badge&amp;logo=windowsterminal&amp;logoColor=white" alt="Batchfile 0.02%" />
